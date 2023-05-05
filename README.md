@@ -32,14 +32,14 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 <p align="center">
   <a href="https://www.instagram.com/otavio_martins281/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/otavio_martins281/"/></a>
   
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-martins-45b0b625b/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ot%C3%A1vio-martins-45b0b625b/" /></a>
-</p>  
   
   <a href="otaviomartinsluis281@gmail.com" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/otavio_martins281/"/></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
 
 ## 💻 Technologies & Tools
 
