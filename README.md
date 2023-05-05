@@ -53,7 +53,6 @@ e poder transformar <strong>ideias em realidade</strong> e impactar positivament
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25" />
- <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" />
 
 </p>
