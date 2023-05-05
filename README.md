@@ -13,9 +13,9 @@
 
 <br>
 <p align="center">
-  Sou <strong>Designer Gráfico</strong> e <strong>Graduando em Tecnologia da Informação</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
-e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
+<strong>Graduando em Tecnologia da Informação</strong>.<br />
+<strong>Tenho um grande sonho</strong> de me tornar um <strong>desenvolvedor web,</strong>
+e poder transformar <strong>ideias em realidade</strong> e impactar positivamente <strong>a vida das pessoas através da tecnologia.</strong>.
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-martins-45b0b625b/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ot%C3%A1vio-martins-45b0b625b/" height="25" /></a>
   
-  <a href="mailto:otaviomartinsluis281@gmail.com" target="_blank" alt="Email"></a>
+  <a href="mailto:otaviomartinsluis281@gmail.com" target="_blank" alt="Email">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
 </p>  
 
