@@ -1,6 +1,6 @@
 <span align="center">
 
-## <h2>Hello There!</h2> <img src="https://i.imgur.com/0hdZ65D.gif" width="40px">
+## <h2>Hello There!</h2>
 
 </span>
 
