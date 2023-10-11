@@ -19,11 +19,7 @@ e poder transformar <strong>ideias em realidade</strong> e impactar positivament
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>HTML5, CSS3, Vue.js, Typescript, React.js, Javascript.</strong>
-</p>
-
-<p align="center">
-  🚀  Estudando: <strong>JavaScript, Typescript e Angular.</strong>
+  💼 Habilidades: <strong>HTML5, CSS3, React.js, Javascript.</strong>
 </p>
 
 <p align="center">
@@ -47,8 +43,6 @@ e poder transformar <strong>ideias em realidade</strong> e impactar positivament
   
  
  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
